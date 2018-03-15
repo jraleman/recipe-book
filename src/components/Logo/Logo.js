@@ -1,6 +1,6 @@
 import React from "react";
 
-const logoImage = require("../assets/logo-white.svg");
+const logoImage = require("../../assets/logo-white.svg");
 
 class Logo extends React.Component {
   render() {
