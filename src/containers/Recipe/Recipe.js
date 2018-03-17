@@ -10,6 +10,15 @@ import RecipeDirections from "../../components/RecipeDirections";
 // Images
 const bbqPorkRibs = require('../../assets/recipes/bbq-pork-ribs.jpg')
 
+// Ingredients list
+var ingredientsList = [
+  {amount : "10", ingredient : "country-style pork ribs"},
+  {amount : "2",  ingredient : "tablespoons garlic powder"},
+  {amount : "1",  ingredient : "tablespoon salt"},
+  {amount : "1",  ingredient : "tablespoon pepper"},
+  {amount : "2",  ingredient : "cups of your favorite barbecue sauce"}
+];
+
 // Directions list
 var directionsList = [
   "Preheat oven to 325.",
@@ -19,7 +28,8 @@ var directionsList = [
   "Drain liquid.",
   "Brush ribs generously with BBQ sauce.",
   "Bake uncovered for an additional 30 minutes in oven or on the BBQ.",
-  "Add more sauce half-way through."];
+  "Add more sauce half-way through."
+];
 
 class Recipe extends React.Component {
   render() {
@@ -44,14 +54,13 @@ class Recipe extends React.Component {
             </div>
           </div>
 
-
-          <RecipeIngredients />
-
+          <RecipeIngredients
+            list={ ingredientsList }
+          />
 
           <RecipeDirections
             list={ directionsList }
           />
-
 
           <div className="row wow rollIn">
             <div className="col-12 text-center">
@@ -61,6 +70,7 @@ class Recipe extends React.Component {
               </a>
             </div>
           </div>
+
         </div>
       </section>
     );
