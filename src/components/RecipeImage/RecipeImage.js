@@ -5,8 +5,8 @@ class RecipeImage extends React.Component {
     return (
       <div className="col-md-8 pull-left wow swing">
         <img
-          src="images/bbq-pork-ribs.jpg"
-          alt="bbq-pork-ribs"
+          src={ this.props.img }
+          alt={ this.props.name }
           className="recipe-picture"
         />
       </div>
