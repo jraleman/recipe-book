@@ -1,4 +1,5 @@
 import React from "react";
+import Title from "../../components/Title";
 import Item from "../../components/Item";
 
 // Images
@@ -9,11 +10,7 @@ class RecipesItems extends React.Component {
     return (
       <section id="items">
         <div className="container">
-          <div className="row">
-            <div className="col-12">
-              <h2>Recipes</h2>
-            </div>
-          </div>
+          <Title name="Recipes" />
           <div className="row">
             <Item name="Barbecue Pork Ribs" img={ bbqPorkRibs } />
           </div>
