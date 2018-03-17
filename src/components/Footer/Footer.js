@@ -21,9 +21,9 @@ class Footer extends React.Component {
                 { "Made with " }
                 <i className="fa fa-heart" aria-hidden="true" />
                 { " love by " }
-                <a href="https://jraleman.com/" target="_blank">
-                  Jose Ramon
-                </a>.
+                <a href="https://jraleman.com/" target="_blank" rel="noopener noreferrer">
+                  { "Jose Ramon." }
+                </a>
               </div>
             </div>
           </div>
