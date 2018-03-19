@@ -1,9 +1,18 @@
 import React from "react";
+
+// Components
 import Title from "../../components/Title";
 import Item from "../../components/Item";
 
-// Images
-const bbqPorkRibs = require('../../assets/recipes/bbq-pork-ribs.jpg')
+// Recipe name
+const recipeName = "BBQ Pork Ribs";
+
+// Recipe image
+const recipeImage = require('../../assets/recipes/bbq-pork-ribs.jpg')
+
+/*
+** RecipeItems screen
+*/
 
 class RecipesItems extends React.Component {
   render() {
@@ -12,7 +21,10 @@ class RecipesItems extends React.Component {
         <div className="container">
           <Title name="Recipes" />
           <div className="row">
-            <Item name="Barbecue Pork Ribs" img={ bbqPorkRibs } />
+            <Item
+              name={ recipeName }
+              img={ recipeImage }
+            />
           </div>
         </div>
       </section>

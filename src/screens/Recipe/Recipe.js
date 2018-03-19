@@ -1,14 +1,23 @@
 import React from "react";
 
+// Components
 import Title from '../../components/Title';
-
 import RecipeImage from "../../components/RecipeImage";
 import RecipeInfo from "../../components/RecipeInfo";
 import RecipeIngredients from "../../components/RecipeIngredients";
 import RecipeDirections from "../../components/RecipeDirections";
+import BackButton from "../../components/BackButton";
 
-// Images
-const bbqPorkRibs = require('../../assets/recipes/bbq-pork-ribs.jpg')
+// Recipe name
+const recipeName = "BBQ Pork Ribs";
+
+// Recipe image
+const recipeImage = require('../../assets/recipes/bbq-pork-ribs.jpg')
+
+// Recipe info
+const infoTime = "3.00";
+const infoDifficulty = "hard";
+const infoServings = "5";
 
 // Ingredients list
 var ingredientsList = [
@@ -31,46 +40,32 @@ var directionsList = [
   "Add more sauce half-way through."
 ];
 
+/*
+** Recipe screen
+*/
+
 class Recipe extends React.Component {
   render() {
     return (
       <section id="recipe">
         <div className="container">
-          <Title name="BBQ Pork Ribs" />
+          <Title name={ recipeName } />
           <div className="row vertical-align">
             <div className="col-12">
-
               <RecipeImage
-                img={ bbqPorkRibs }
-                name="bbq-pork-ribs"
+                img={ recipeImage }
+                name={ recipeName }
               />
-
               <RecipeInfo
-                time="3.00"
-                difficulty="hard"
-                servings="5"
+                time={ infoTime }
+                difficulty={ infoDifficulty }
+                servings={ infoServings }
               />
-
             </div>
           </div>
-
-          <RecipeIngredients
-            list={ ingredientsList }
-          />
-
-          <RecipeDirections
-            list={ directionsList }
-          />
-
-          <div className="row wow rollIn">
-            <div className="col-12 text-center">
-              <a href="index.html">
-                <i className="fa fa-backward" aria-hidden="true" />
-                { " Go to back to recipes." }
-              </a>
-            </div>
-          </div>
-
+          <RecipeIngredients list={ ingredientsList } />
+          <RecipeDirections list={ directionsList } />
+          <BackButton />
         </div>
       </section>
     );
