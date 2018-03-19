@@ -9,10 +9,7 @@
 
 ## TODO
 
-- RecipeInfo
-  - Split to subcomponents (time, difficulty, and servings)
-  - Clean setDifficulty() function
-  - Check constructor()
+- Routes
 
 ## License
 
