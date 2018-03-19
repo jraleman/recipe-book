@@ -2,11 +2,12 @@ import React, { Component } from 'react';
 
 // Components
 import Logo from './components/Logo';
+import Title from './components/Title';
+import Item from './components/Item';
 import Footer from './components/Footer';
 
 // Screens
 import Recipe from './screens/Recipe';
-import RecipesItems from './screens/RecipesItems';
 
 // Recipes
 const bbqPorkRibs = require('./assets/recipes/bbq-pork-ribs.json');
@@ -20,7 +21,14 @@ class App extends Component {
     return (
       <div className="App">
         <Logo />
-        <RecipesItems recipe={ bbqPorkRibs } />
+        <section id="items">
+          <div className="container">
+            <Title name="Recipes" />
+            <div className="row">
+              <Item recipe={ bbqPorkRibs } />
+            </div>
+          </div>
+        </section>
         <Recipe recipe={ bbqPorkRibs } />
         <Footer />
       </div>
