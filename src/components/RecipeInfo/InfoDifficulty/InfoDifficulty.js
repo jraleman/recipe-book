@@ -8,23 +8,16 @@ class InfoDifficulty extends React.Component {
   constructor(props) {
     super(props);
     this.difficulty = this.props.difficulty;
-    this.stars = 1;
+    this.stars = this.setDifficulty(this.difficulty.toLowerCase());
     return ;
   }
-  setDifficulty(val) {
-    if (val === 'easy') {
-      this.stars = 1;
-    }
-    else if (val === "normal") {
-      this.stars = 2;
-    }
-    else if (val === "hard") {
-      this.stars = 3;
-    }
-    return ;
+  setDifficulty(difficulty) {
+    if (difficulty === 'easy') { return (1); }
+    else if (difficulty === "normal") { return (2); }
+    else if (difficulty === "hard") { return (3); }
+    else { return (0); }
   }
   render() {
-    this.setDifficulty(this.props.difficulty);
     return (
       <div className="row">
         <div className="col-2 text-center">
