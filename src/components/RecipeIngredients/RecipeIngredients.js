@@ -10,9 +10,16 @@ function mapObject(object, callback) {
   });
 }
 
+/*
+** RecipeIngredients component.
+** Hack to hide unique key warning for each children:
+**   key={i}, key{i + 1000}, key{i + 2000}
+*/
+
 class RecipeIngredients extends React.Component {
   constructor(props) {
     super(props);
+    this.list = this.props.list;
     return ;
   }
   render() {
@@ -22,18 +29,14 @@ class RecipeIngredients extends React.Component {
           <div className="recipe-ingredients">
             <h3>Ingredients</h3>
             <dl className="ingredients-list">
-
-              {/* key={i}, key{i + 100}, key{i + 200} ->
-                  hack to hide unique key warning for each children */}
-              {mapObject(this.props.list, function (i, item) {
+              {mapObject(this.list, function (i, item) {
                 return (
                   <span key={i}>
-                    <dt key={i + 100}>{ item.amount }</dt>
-                    <dd key={i + 200}>{ item.ingredient }</dd>
+                    <dt key={i + 1000}>{ item.amount }</dt>
+                    <dd key={i + 2000}>{ item.ingredient }</dd>
                   </span>
                 );
               })}
-
             </dl>
           </div>
         </div>
