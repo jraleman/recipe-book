@@ -13,8 +13,6 @@
   - Split to subcomponents (time, difficulty, and servings)
   - Clean setDifficulty() function
   - Check constructor()
-- Footer
-  - Split to subcomponents (about, and author)
 
 ## License
 
