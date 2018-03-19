@@ -1,13 +1,22 @@
 import React from "react";
 
-const logoImage = require("../../assets/logo-white.svg");
+// Logo image file path.
+const logoPath = require("../../assets/logo-white.svg");
+
+/*
+** Logo component.
+*/
 
 class Logo extends React.Component {
+  constructor(props) {
+    super(props);
+    return ;
+  }
   render() {
     return (
       <section id="logo">
         <div className="container text-center wow pulse">
-          <img src={ logoImage } alt="logo" />
+          <img src={ logoPath } alt="logo" />
           <br />
           <h1>Recipe Book</h1>
         </div>
