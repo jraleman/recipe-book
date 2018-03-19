@@ -36,13 +36,13 @@ class Recipe extends React.Component {
     return (
       <section id="recipe">
         <div className="container">
-          <Title name="Recipe" />
+          <Title name="BBQ Pork Ribs" />
           <div className="row vertical-align">
             <div className="col-12">
 
               <RecipeImage
                 img={ bbqPorkRibs }
-                name="pork-bbq-ribs"
+                name="bbq-pork-ribs"
               />
 
               <RecipeInfo

@@ -3,8 +3,8 @@ import React, { Component } from 'react';
 import Logo from './components/Logo';
 import Footer from './components/Footer';
 
-import Recipe from './containers/Recipe';
-import RecipesItems from './containers/RecipesItems';
+import Recipe from './screens/Recipe';
+import RecipesItems from './screens/RecipesItems';
 
 class App extends Component {
   render() {
