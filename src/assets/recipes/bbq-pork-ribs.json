@@ -1,0 +1,38 @@
+{
+  "recipeName": "BBQ Pork Ribs",
+  "recipeImage": "images/bbq-pork-ribs.jpg",
+  "infoTime": "3.00",
+  "infoDifficulty": "hard",
+  "infoServings": "5",
+  "ingredientsList": [{
+      "amount": "10",
+      "ingredient": "country-style pork ribs"
+    },
+    {
+      "amount": "2",
+      "ingredient": "tablespoons garlic powder"
+    },
+    {
+      "amount": "1",
+      "ingredient": "tablespoon salt"
+    },
+    {
+      "amount": "1",
+      "ingredient": "tablespoon pepper"
+    },
+    {
+      "amount": "2",
+      "ingredient": "cups of your favorite barbecue sauce"
+    }
+  ],
+  "directionsList": [
+    "Preheat oven to 325.",
+    "Place ribs meaty side up in an ungreased baking dish.",
+    "Sprinkle with garlic powder, salt, and pepper.",
+    "Cover with foil and bake for 2 hours.",
+    "Drain liquid.",
+    "Brush ribs generously with BBQ sauce.",
+    "Bake uncovered for an additional 30 minutes in oven or on the BBQ.",
+    "Add more sauce half-way through."
+  ]
+}
