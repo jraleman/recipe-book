@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 // Components
 import Logo from './components/Logo';
@@ -11,12 +11,14 @@ import Recipe from './screens/Recipe';
 
 // Recipes
 const bbqPorkRibs = require('./assets/recipes/bbq-pork-ribs.json');
+const sweetPotatoCasserole = require('./assets/recipes/sweet-potato-casserole.json');
+const whiteSangriaPopsicles = require('./assets/recipes/white-sangria-popsicles.json');
 
 /*
 ** Main screen
 */
 
-class App extends Component {
+class App extends React.Component {
   render() {
     return (
       <div className="App">
@@ -25,7 +27,10 @@ class App extends Component {
           <div className="container">
             <Title name="Recipes" />
             <div className="row">
+              {/* For loop goes here... */}
               <Item recipe={ bbqPorkRibs } />
+              <Item recipe={ sweetPotatoCasserole } />
+              <Item recipe={ whiteSangriaPopsicles } />
             </div>
           </div>
         </section>
