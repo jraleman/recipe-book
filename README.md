@@ -4,12 +4,9 @@
 
 ## Acknowledgments
 
-- [Quirlycues Font by Qwerks]( http://www.1001fonts.com/quirlycues-font.html)
+- [Photos](resources/photos-srcs.md)
 - [Cheese Set](https://taylorcraftsengraved.com/cheese-sets/square-cheese-set-with-utensils)
-
-## TODO
-
-- Routes
+- [Quirlycues Font by Qwerks]( http://www.1001fonts.com/quirlycues-font.html)
 
 ## License
 
