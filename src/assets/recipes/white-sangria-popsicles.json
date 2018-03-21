@@ -1,0 +1,37 @@
+{
+  "recipeName": "White Sangria Popsicles",
+  "recipeImage": "images/white-sangria-popsicles.jpg",
+  "infoTime": "6.00",
+  "infoDifficulty": "easy",
+  "infoServings": "8",
+  "ingredientsList": [{
+      "amount": "1",
+      "ingredient": "bottle dry white wine"
+    },
+    {
+      "amount": "½",
+      "ingredient": "cup simple syrup"
+    },
+    {
+      "amount": "½",
+      "ingredient": "cup orange liqueur"
+    },
+    {
+      "amount": "2",
+      "ingredient": "lemons"
+    },
+    {
+      "amount": "2",
+      "ingredient": "cups chopped fruit (strawberries, green apples, peaches, and blackberries)"
+    }
+  ],
+  "directionsList": [
+    "Combine wine, simple syrup, and orange liqueur in a large pitcher.",
+    "Juice 1 lemon into the pitcher.",
+    "Slice the other lemon thinly and then halve the slices. Add to the pitcher with the remaining fruit.",
+    "Pour into 3-ounce paper cups and freeze for ~2 hours until it starts to ice over.",
+    "Insert popsicle sticks and freeze for another 2-3 hours until solid.",
+    "To serve, carefully peel the paper cut away from the sangria pop starting with the seam.",
+    "Eat immediately."
+  ]
+}
