@@ -1,0 +1,38 @@
+{
+  "recipeName": "Sweet Potato Casserole",
+  "recipeImage": "images/sweet-potato-casserole.jpg",
+  "infoTime": "1.00",
+  "infoDifficulty": "medium",
+  "infoServings": "8",
+  "ingredientsList": [{
+      "amount": "5",
+      "ingredient": "sweet potatoes, sliced"
+    },
+    {
+      "amount": "¼",
+      "ingredient": "cup reduced fat margarine"
+    },
+    {
+      "amount": "½",
+      "ingredient": "cup packed brown sugar"
+    },
+    {
+      "amount": "3",
+      "ingredient": "tablespoons orange juice"
+    },
+    {
+      "amount": "1",
+      "ingredient": "pinch ground cinnamon"
+    },
+    {
+      "amount": "10.5",
+      "ingredient": "ounce miniature marshmallow (1 package)"
+    }
+  ],
+  "directionsList": [
+    "Preheat oven to 350 degrees F (175 degrees C).",
+    "Place sweet potatoes in a large saucepan with enough water to cover. Bring to a boil, and cook until tender, about 15 minutes. Remove from heat, drain, and mash.",
+    "Place mashed sweet potatoes in large bowl, and use an electric mixer to blend with the margarine, brown sugar, orange juice, and cinnamon. Spread evenly into a 9x13 inch baking dish. Top with miniature marshmallows.",
+    "Bake for 25 to 30 minutes in the preheated oven, or until heated through, and until marshmallows are puffed and golden brown."
+  ]
+}
