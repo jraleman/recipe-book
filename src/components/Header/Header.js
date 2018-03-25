@@ -7,7 +7,7 @@ const logoPath = require("../../assets/logo-white.svg");
 ** Logo component.
 */
 
-class Logo extends React.Component {
+class Header extends React.Component {
   constructor(props) {
     super(props);
     return ;
@@ -25,4 +25,4 @@ class Logo extends React.Component {
   }
 }
 
-export default Logo;
+export default Header;
