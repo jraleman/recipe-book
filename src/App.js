@@ -7,7 +7,7 @@ import Item from './components/Item';
 import Footer from './components/Footer';
 
 // Screens
-import Recipe from './screens/Recipe';
+import Recipe from "./screens/Recipe";
 
 // Recipes
 const bbqPorkRibs = require('./assets/recipes/bbq-pork-ribs.json');
@@ -21,6 +21,18 @@ const whiteSangriaPopsicles = require('./assets/recipes/white-sangria-popsicles.
 class App extends React.Component {
   constructor(props) {
     super(props);
+    this.state = {
+      id: null,
+      clicked: false,
+    };
+    this.handleClick = this.handleClick.bind(this);
+    return ;
+  }
+  handleClick() {
+    this.setState({
+      id: null,
+      clicked: true,
+    });
     return ;
   }
   render() {
@@ -29,13 +41,17 @@ class App extends React.Component {
         <Header />
         <section id="items">
           <div className="container">
-            <Title name="Recipes" />
-            <div className="row">
-              {/* For loop goes here... */}
-              <Item recipe={ bbqPorkRibs } />
-              <Item recipe={ sweetPotatoCasserole } />
-              <Item recipe={ whiteSangriaPopsicles } />
-            </div>
+            {/* Hide 'Recipes' title if an item is selected. */}
+            { this.state.clicked ? null : <Title name="Recipes" />}
+            {/* Shows the recipe screen when an item is clicked */}
+            { this.state.clicked ? <Recipe recipe={ whiteSangriaPopsicles } /> :
+              <div className="row">
+                {/* For loop goes here... */}
+                <Item action={ this.handleClick } recipe={ bbqPorkRibs } />
+                <Item action={ this.handleClick } recipe={ sweetPotatoCasserole } />
+                <Item action={ this.handleClick } recipe={ whiteSangriaPopsicles } />
+              </div>
+            }
           </div>
         </section>
         <Footer />
