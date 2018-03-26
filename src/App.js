@@ -14,6 +14,9 @@ const bbqPorkRibs = require('./assets/recipes/bbq-pork-ribs.json');
 const sweetPotatoCasserole = require('./assets/recipes/sweet-potato-casserole.json');
 const whiteSangriaPopsicles = require('./assets/recipes/white-sangria-popsicles.json');
 
+// List of Recipes
+const recipeList = null;
+
 /*
 ** Main screen
 */
@@ -47,9 +50,9 @@ class App extends React.Component {
             { this.state.clicked ? <Recipe recipe={ whiteSangriaPopsicles } /> :
               <div className="row">
                 {/* For loop goes here... */}
-                <Item action={ this.handleClick } recipe={ bbqPorkRibs } />
-                <Item action={ this.handleClick } recipe={ sweetPotatoCasserole } />
-                <Item action={ this.handleClick } recipe={ whiteSangriaPopsicles } />
+                <Item onClick={ this.handleClick } recipe={ bbqPorkRibs } />
+                <Item onClick={ this.handleClick } recipe={ sweetPotatoCasserole } />
+                <Item onClick={ this.handleClick } recipe={ whiteSangriaPopsicles } />
               </div>
             }
           </div>
