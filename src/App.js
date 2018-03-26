@@ -7,7 +7,7 @@ import Item from './components/Item';
 import Footer from './components/Footer';
 
 // Screens
-import Recipe from "./screens/Recipe";
+import Recipe from './screens/Recipe';
 
 // List of Recipes
 const recipeList = [
@@ -35,6 +35,7 @@ class App extends React.Component {
       id: val,
       clicked: true,
     });
+    document.body.scrollTop = document.documentElement.scrollTop = 0;
     return ;
   }
   render() {
@@ -48,6 +49,7 @@ class App extends React.Component {
             {/* Shows the recipe screen when an item is clicked */}
             { this.state.clicked ? <Recipe recipe={ this.state.id } /> :
               <div className="row">
+                {/* Render recipe items in a map */}
                 {Array.apply(null, Array(recipeList.length)).map(
                   function(item, i) {
                     return (
