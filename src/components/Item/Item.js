@@ -15,7 +15,7 @@ class Item extends React.Component {
   render() {
     return (
       <div className="col-lg-4 col-md-6 col-sm-12 wow fadeIn">
-        <a href="#" onClick={ this.props.action }>
+        <a href={"#" + this.name.replace(/\s+/g, '-').toLowerCase()} onClick={ this.props.action }>
           <div className="recipe-item text-center">
             <img src={ require("../../assets/" + this.img) } alt={ this.name } />
             <br />
