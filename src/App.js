@@ -9,13 +9,12 @@ import Footer from './components/Footer';
 // Screens
 import Recipe from "./screens/Recipe";
 
-// Recipes
-const bbqPorkRibs = require('./assets/recipes/bbq-pork-ribs.json');
-const sweetPotatoCasserole = require('./assets/recipes/sweet-potato-casserole.json');
-const whiteSangriaPopsicles = require('./assets/recipes/white-sangria-popsicles.json');
-
 // List of Recipes
-const recipeList = null;
+const recipeList = [
+  require('./assets/recipes/bbq-pork-ribs.json'),
+  require('./assets/recipes/sweet-potato-casserole.json'),
+  require('./assets/recipes/white-sangria-popsicles.json'),
+];
 
 /*
 ** Main screen
@@ -49,10 +48,16 @@ class App extends React.Component {
             {/* Shows the recipe screen when an item is clicked */}
             { this.state.clicked ? <Recipe recipe={ whiteSangriaPopsicles } /> :
               <div className="row">
-                {/* For loop goes here... */}
-                <Item onClick={ this.handleClick } recipe={ bbqPorkRibs } />
-                <Item onClick={ this.handleClick } recipe={ sweetPotatoCasserole } />
-                <Item onClick={ this.handleClick } recipe={ whiteSangriaPopsicles } />
+                {Array.apply(null, Array(recipeList.length)).map(
+                  function(item, i) {
+                    return (
+                      <Item
+                        key={ i }
+                        recipe={ recipeList[i] }
+                        onClick={ this.handleClick }
+                      />
+                    );
+                  }, this)}
               </div>
             }
           </div>
