@@ -15,11 +15,13 @@ class Item extends React.Component {
   render() {
     return (
       <div className="col-lg-4 col-md-6 col-sm-12 wow fadeIn">
-        <div className="recipe-item text-center">
-          <img src={ require("../../assets/" + this.img) } alt={ this.name } />
-          <br />
-          <h3>{ this.name }</h3>
-        </div>
+        <a href="#" onClick={ this.props.action }>
+          <div className="recipe-item text-center">
+            <img src={ require("../../assets/" + this.img) } alt={ this.name } />
+            <br />
+            <h3>{ this.name }</h3>
+          </div>
+        </a>
       </div>
     );
   }
