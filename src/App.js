@@ -30,9 +30,9 @@ class App extends React.Component {
     this.handleClick = this.handleClick.bind(this);
     return ;
   }
-  handleClick() {
+  handleClick(val) {
     this.setState({
-      id: null,
+      id: val,
       clicked: true,
     });
     return ;
@@ -46,7 +46,7 @@ class App extends React.Component {
             {/* Hide 'Recipes' title if an item is selected. */}
             { this.state.clicked ? null : <Title name="Recipes" />}
             {/* Shows the recipe screen when an item is clicked */}
-            { this.state.clicked ? <Recipe recipe={ whiteSangriaPopsicles } /> :
+            { this.state.clicked ? <Recipe recipe={ this.state.id } /> :
               <div className="row">
                 {Array.apply(null, Array(recipeList.length)).map(
                   function(item, i) {
