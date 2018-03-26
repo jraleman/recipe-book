@@ -1,7 +1,7 @@
 import React from 'react';
 
 // Components
-import Logo from './components/Logo';
+import Header from './components/Header';
 import Title from './components/Title';
 import Item from './components/Item';
 import Footer from './components/Footer';
@@ -22,7 +22,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <Logo />
+        <Header />
         <section id="items">
           <div className="container">
             <Title name="Recipes" />
