@@ -19,6 +19,10 @@ const whiteSangriaPopsicles = require('./assets/recipes/white-sangria-popsicles.
 */
 
 class App extends React.Component {
+  constructor(props) {
+    super(props);
+    return ;
+  }
   render() {
     return (
       <div className="App">
@@ -34,7 +38,6 @@ class App extends React.Component {
             </div>
           </div>
         </section>
-        <Recipe recipe={ bbqPorkRibs } />
         <Footer />
       </div>
     );
