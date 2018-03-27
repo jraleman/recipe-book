@@ -19,6 +19,7 @@ const recipeList = [
   require('./assets/recipes/florida-sangria.json'),
   require('./assets/recipes/sopa-puerros-papas.json'),
   require('./assets/recipes/arugula-florida-berry-salad.json'),
+  require('./assets/recipes/garlic-parmesan-scalloped-potatoes.json'),
 ];
 
 /*

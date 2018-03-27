@@ -1,0 +1,52 @@
+{
+  "recipeName": "Garlic Parmesan Scalloped Potatoes",
+  "recipeImage": "images/garlic-parmesan-scalloped-potatoes.jpg",
+  "infoTime": "1.45",
+  "infoDifficulty": "medium",
+  "infoServings": "8",
+  "ingredientsList": [{
+      "amount": "4",
+      "ingredient": "tablespoons butter"
+    },
+    {
+      "amount": "1",
+      "ingredient": "tablespoon minced garlic (or 4 large garlic cloves, minced)"
+    },
+    {
+      "amount": "4",
+      "ingredient": "tablespoons all-purpose (or plain) flour"
+    },
+    {
+      "amount": "4",
+      "ingredient": "cups milk"
+    },
+    {
+      "amount": "½",
+      "ingredient": "teaspoon black pepper"
+    },
+    {
+      "amount": "3",
+      "ingredient": "pounds potatoes, peeled and sliced into ⅛-inch rounds"
+    },
+    {
+      "amount": "2",
+      "ingredient": "cups shredded mozzarella cheese"
+    },
+    {
+      "amount": "¾",
+      "ingredient": "cup Parmesan cheese (freshly grated)"
+    },
+    {
+      "amount": "1",
+      "ingredient": "tablespoon fresh chives, divided"
+    }
+  ],
+  "directionsList": [
+    "Preheat oven to 400°F | 200°C.",
+    "Melt butter in a medium-sized pan / pot. Add the garlic and sauté until just fragrant (about 1 minute).",
+    "Whisk in the flour; continue to cook while whisking (or stirring) for at least 2 minutes. Reduce heat down to low; gradually whisk in 4 cups of the milk (about ¼ cup at a time), whisking between each addition to combine. Bring to a boil until beginning to thicken. Stir in the bullion powder, salt (if needed), and pepper. Set aside.",
+    "Lightly grease a 9 x 13-inch baking pan with cooking oil spray. Arrange a layer of potatoes over base of prepared dish. Pour half of the cream sauce over the potatoes, then top evenly with half of the mozzarella cheese, and half of the Parmesan cheese. Arrange the remaining potato slices over the cheese, the remaining creamy sauce, and the remaining cheeses.",
+    "Cover tightly with aluminum foil and bake for 40 minutes until potatoes are just tender. Remove foil; cook for a further 30 minutes or until top is golden and the sauce is bubbling. For a crispier top, broil (or grill) on medium heat for 2-3 minutes until cheese is crispy.",
+    "Garnish with chives. Serve warm."
+  ]
+}
