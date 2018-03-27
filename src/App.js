@@ -15,6 +15,7 @@ const recipeList = [
   require('./assets/recipes/sweet-potato-casserole.json'),
   require('./assets/recipes/white-sangria-popsicles.json'),
   require('./assets/recipes/alfredo-chicken-bake.json'),
+  require('./assets/recipes/sticky-wings.json'),
 ];
 
 /*

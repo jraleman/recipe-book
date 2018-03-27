@@ -1,0 +1,52 @@
+{
+  "recipeName": "Sticky Wings",
+  "recipeImage": "images/sticky-wings.jpg",
+  "infoTime": "0.48",
+  "infoDifficulty": "medium",
+  "infoServings": "6",
+  "ingredientsList": [{
+      "amount": "½",
+      "ingredient": "cup chopped green onion"
+    },
+    {
+      "amount": "¼",
+      "ingredient": "cup honey"
+    },
+    {
+      "amount": "2",
+      "ingredient": "tablespoons soy sauce"
+    },
+    {
+      "amount": "2",
+      "ingredient": "tablespoons Asian chili sauce"
+    },
+    {
+      "amount": "2",
+      "ingredient": "tablespoons oyster sauce"
+    },
+    {
+      "amount": "2",
+      "ingredient": "tablespoons dark Asian sesame oil"
+    },
+    {
+      "amount": "1",
+      "ingredient": "teaspoon ground ginger"
+    },
+    {
+      "amount": "2",
+      "ingredient": "cloves garlic, finely chopped"
+    },
+    {
+      "amount": "2",
+      "ingredient": "pounds chicken wings, cut in 2 pieces at joint"
+    }
+  ],
+  "directionsList": [
+    "Heat oven to 450 degrees F.",
+    "Grease large baking pan.",
+    "Combine green onion, honey, soy sauce, chili sauce, oyster sauce, sesame oil, ginger and garlic in large bowl. Add wings; toss to coat.",
+    "Place wings with sauce in single layer in prepared baking pan. Bake, turning occasionally, 25 minutes or until chicken is evenly browned.",
+    "Increase oven temperature to broil. Broil wings 6 inches from heat, turning occasionally, for 8 minutes or until sauce is thick enough to coat back of spoon.",
+    "Remove wings to platter; spoon sauce over."
+  ]
+}

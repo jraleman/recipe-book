@@ -3,7 +3,8 @@
 - [bbq-pork-ribs](http://www.recipestation.com/wp-content/uploads/sites/736/2015/09/dreamstime_s_9613497.jpg)
 - [sweet-potato-casserole](https://search.chow.com/thumbnail/640/0/www.chowstatic.com/assets/recipe_photos/30197_sweet_potato_casserole.jpg)
 - [white-sangria-popsicles](http://www.bourbonandhoney.com/wp-content/uploads/2014/06/Mango-Lime-White-Sangria-Popsicles-BourbonAndHoney.com-1-e1403750594690.jpg)
--[alfredo-chicken-bake](https://images-gmi-pmc.edge-generalmills.com/da38d508-e52d-4fb1-8754-8365821b591b.jpg)
+- [alfredo-chicken-bake](https://images-gmi-pmc.edge-generalmills.com/da38d508-e52d-4fb1-8754-8365821b591b.jpg)
+- [sticky-wings](http://lh3.ggpht.com/_OaYG005JPDs/THrXcAWINxI/AAAAAAAABxg/g1NeurAIrLk/s640/Asian%20Sticky%20Wings%20close.jpg)
 
 ## Fair Use Policy and Legal Disclaimer
 
