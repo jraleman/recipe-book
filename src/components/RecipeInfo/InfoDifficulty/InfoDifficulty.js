@@ -12,10 +12,11 @@ class InfoDifficulty extends React.Component {
     return ;
   }
   setDifficulty(difficulty) {
-    if (difficulty === 'easy') { return (1); }
-    else if (difficulty === "normal") { return (2); }
-    else if (difficulty === "hard") { return (3); }
-    else { return (0); }
+    var ret = 0;
+    if (difficulty === 'easy') { ret = 1; }
+    else if (difficulty === "medium") { ret = 2; }
+    else if (difficulty === "hard") { ret = 3; }
+    return (ret);
   }
   render() {
     return (
