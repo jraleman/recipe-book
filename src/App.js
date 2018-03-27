@@ -14,6 +14,7 @@ const recipeList = [
   require('./assets/recipes/bbq-pork-ribs.json'),
   require('./assets/recipes/sweet-potato-casserole.json'),
   require('./assets/recipes/white-sangria-popsicles.json'),
+  require('./assets/recipes/alfredo-chicken-bake.json'),
 ];
 
 /*

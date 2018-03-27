@@ -1,0 +1,32 @@
+{
+  "recipeName": "Alfredo Chicken Bake",
+  "recipeImage": "images/alfredo-chicken-bake.jpg",
+  "infoTime": "1.00",
+  "infoDifficulty": "medium",
+  "infoServings": "4",
+  "ingredientsList": [{
+      "amount": "24",
+      "ingredient": "oz alfredo sauce"
+    },
+    {
+      "amount": "4",
+      "ingredient": "chicken breasts"
+    },
+    {
+      "amount": "1",
+      "ingredient": "lb of broccoli heads"
+    },
+    {
+      "amount": "1",
+      "ingredient": "cup permesan cheese"
+    }
+  ],
+  "directionsList": [
+    "Preheat oven to 400˚F/200˚C.",
+    "Spread a layer of Alfredo sauce on the baking dish. Place chicken breast over sauce. Season chicken with salt and pepper to taste.",
+    "Spread broccoli over pan.",
+    "Pour remaining Alfredo over chicken and broccoli.",
+    "Top with cheese.",
+    "Bake for 40 minutes."
+  ]
+}
