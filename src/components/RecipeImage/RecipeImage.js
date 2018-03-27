@@ -18,6 +18,8 @@ class RecipeImage extends React.Component {
           src={ this.img }
           alt={ this.name }
           className="recipe-picture"
+          width={ 640 }
+          height={ 400 }
         />
       </div>
     );
