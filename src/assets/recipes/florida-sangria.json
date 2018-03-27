@@ -1,0 +1,34 @@
+{
+  "recipeName": "Florida Sangria",
+  "recipeImage": "images/florida-sangria.jpg",
+  "infoTime": "4.15",
+  "infoDifficulty": "easy",
+  "infoServings": "4",
+  "ingredientsList": [{
+      "amount": "1",
+      "ingredient": "lemon"
+    },
+    {
+      "amount": "1",
+      "ingredient": "lime"
+    },
+    {
+      "amount": "1",
+      "ingredient": "orange"
+    },
+    {
+      "amount": "1",
+      "ingredient": "cup strawberries"
+    },
+    {
+      "amount": "1",
+      "ingredient": "bottle blueberry wine, semi-dry"
+    }
+  ],
+  "directionsList": [
+    "Wash and thinly slice lemons, limes and oranges, without removing the peel. ",
+    "Place in a large pitcher and add strawberries.",
+    "Pour wine into pitcher so that it covers fruit. ",
+    "Cover and refrigerate for 4 hours"
+  ]
+}
