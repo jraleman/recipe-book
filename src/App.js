@@ -44,22 +44,23 @@ class App extends React.Component {
         <Header />
         <section id="items">
           <div className="container">
-            {/* Hide 'Recipes' title if an item is selected. */}
-            { this.state.clicked ? null : <Title name="Recipes" />}
             {/* Shows the recipe screen when an item is clicked */}
             { this.state.clicked ? <Recipe recipe={ this.state.id } /> :
-              <div className="row">
-                {/* Render recipe items in a map */}
-                {Array.apply(null, Array(recipeList.length)).map(
-                  function(item, i) {
-                    return (
-                      <Item
-                        key={ i }
-                        recipe={ recipeList[i] }
-                        onClick={ this.handleClick }
-                      />
-                    );
-                  }, this)}
+              <div className="recipe-items">
+               <Title name="Recipes" />
+                <div className="row">
+                  {/* Render recipe items in a map */}
+                  {Array.apply(null, Array(recipeList.length)).map(
+                    function(item, i) {
+                      return (
+                        <Item
+                          key={ i }
+                          recipe={ recipeList[i] }
+                          onClick={ this.handleClick }
+                        />
+                      );
+                    }, this)}
+                </div>
               </div>
             }
           </div>
