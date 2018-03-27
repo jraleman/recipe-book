@@ -1,0 +1,41 @@
+{
+  "recipeName": "Sopa de Puerros y Papas",
+  "recipeImage": "images/sopa-puerros-papas.jpg",
+  "infoTime": "0.50",
+  "infoDifficulty": "easy",
+  "infoServings": "4",
+  "ingredientsList": [{
+      "amount": "6",
+      "ingredient": "puerros rebanados"
+    },
+    {
+      "amount": "4",
+      "ingredient": "papas medianas rebanadas"
+    },
+    {
+      "amount": "¾",
+      "ingredient": "taza de crema/leche evaporada"
+    },
+    {
+      "amount": "¼",
+      "ingredient": "taza mantequilla"
+    },
+    {
+      "amount": "1",
+      "ingredient": "cucharada de aceite"
+    },
+    {
+      "amount": "1",
+      "ingredient": "litro de caldo de pollo"
+    }
+  ],
+  "directionsList": [
+    "Saltee el puerro en una cacerola con mantequilla y aceite mezclados por 10 minutos o hasta que esté blando.",
+    "Agregue las papas, el caldo, y sazone con sal y pimenta.",
+    "Tape la cacerola y cocine a fuego lento durante unos 30 minutos o hasta que las papas estén blandas.",
+    "Deje enfriar ligeramente y luego licue la sopa.",
+    "Si prefiere la sopa caliente, póngala nuevamente en la cacerola, añada la crema y déjela por a fuego lento, sin permitir que hierva.",
+    "Si la prefiere fría, agregue la crema y refrigérela.",
+    "Adornar con cebollina picada."
+  ]
+}
