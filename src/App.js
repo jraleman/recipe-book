@@ -18,6 +18,7 @@ const recipeList = [
   require('./assets/recipes/sticky-wings.json'),
   require('./assets/recipes/florida-sangria.json'),
   require('./assets/recipes/sopa-puerros-papas.json'),
+  require('./assets/recipes/arugula-florida-berry-salad.json'),
 ];
 
 /*

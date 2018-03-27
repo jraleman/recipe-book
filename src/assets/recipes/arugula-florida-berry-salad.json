@@ -1,0 +1,44 @@
+{
+  "recipeName": "Arugula and Florida Berry Salad",
+  "recipeImage": "images/arugula-florida-berry-salad.jpg",
+  "infoTime": "0.45",
+  "infoDifficulty": "easy",
+  "infoServings": "4",
+  "ingredientsList": [{
+      "amount": "16",
+      "ingredient": "ounces arugula, rinsed and drained"
+    },
+    {
+      "amount": "1",
+      "ingredient": "dozen strawberries, rinsed, hulled and sliced"
+    },
+    {
+      "amount": "1",
+      "ingredient": "cup blueberries"
+    },
+    {
+      "amount": "2",
+      "ingredient": "oranges, peeled and segmented"
+    },
+    {
+      "amount": "8",
+      "ingredient": "ounces goat cheese, crumbled"
+    },
+    {
+      "amount": "1",
+      "ingredient": "lemon, juiced"
+    },
+    {
+      "amount": "1",
+      "ingredient": "tablespoon olive oil"
+    }
+  ],
+  "directionsList": [
+    "In a medium-sized mixing bowl, add arugula, lemon juice and olive oil.",
+    "Lightly toss the arugula to coat and season lightly with salt and pepper.",
+    "Serve on four chilled plates. Add an even amount of the dressed arugula to the center of each plate.",
+    "Arrange an even amount of citrus, blueberries and strawberries in a decorative manner on each plate.",
+    "Evenly distribute the crumbled goat cheese over the top of each salad.",
+    "Garnish each salad with a few of the candied pecans. Serve salad chilled."
+  ]
+}

@@ -7,6 +7,7 @@
 - [sticky-wings](http://lh3.ggpht.com/_OaYG005JPDs/THrXcAWINxI/AAAAAAAABxg/g1NeurAIrLk/s640/Asian%20Sticky%20Wings%20close.jpg)
 - [florida-sangria](https://lh3.googleusercontent.com/l03saKXbP2Q0ghBGKfajqxl-G-0G5NsAmH9D69IfRw93HdX1enLOxxl6defw4fV1tUh_JArtXvv9UHRy6oAYSwGwORfl7JMXwKQwoSTF=w800-l68)
 - [sopa-puerros-papas](http://images-gmi-pmc.edge-generalmills.com/9b91505a-6926-4486-8479-c264156f33a4.jpg)
+- [arugula-florida-berry-salad](https://i0.wp.com/d2w079qmvzh0vc.cloudfront.net/opportunities/790/blog_images/Florida_Arugula__Berry_and_Citrus_Salad_small.jpg?ssl=1)
 
 ## Fair Use Policy and Legal Disclaimer
 
