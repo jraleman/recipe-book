@@ -1,0 +1,57 @@
+{
+  "recipeName": "Chicken and Mushrooms with Couscous",
+  "recipeImage": "images/chicken-mushrooms-couscous.jpg",
+  "infoTime": "0.40",
+  "infoDifficulty": "medium",
+  "infoServings": "4",
+  "ingredientsList": [
+    {
+      "amount": "1½",
+      "ingredient": "pounds cremini mushrooms, halved"
+    },
+    {
+      "amount": "3",
+      "ingredient": "tablespoons extra-virgin olive oil"
+    },
+    {
+      "amount": "4",
+      "ingredient": "cloves garlic, smashed"
+    },
+    {
+      "amount": "½",
+      "ingredient": "teaspoon ground cumin"
+    },
+    {
+      "amount": "½",
+      "ingredient": "teaspoon ground cinnamon"
+    },
+    {
+      "amount": "4",
+      "ingredient": "skin-on, bone-in chicken breasts (2 to 2½ pounds)"
+    },
+    {
+      "amount": "1",
+      "ingredient": "cup whole-wheat or regular couscous"
+    },
+    {
+      "amount": "1",
+      "ingredient": "tablespoon fresh lemon juice"
+    },
+    {
+      "amount": "4",
+      "ingredient": "cup chopped fresh cilantro or dill"
+    },
+    {
+      "amount": "4",
+      "ingredient": "cup plain yogurt, for serving"
+    }
+  ],
+  "directionsList": [
+    "Preheat oven to 400 degrees F.",
+    "Toss the mushrooms, 2 tablespoons olive oil, the garlic, cumin, cinnamon, ½ teaspoon salt, and pepper to taste on a rimmed baking sheet.",
+    "Rub the chicken breasts with the remaining 1 tablespoon olive oil and season with salt and pepper. Arrange the chicken skin-side up among the mushrooms.",
+    "Roast until the chicken skin is crisp and golden and a thermometer inserted into the thickest part registers 165 degrees F, 25 to 30 minutes.",
+    "Meanwhile, cook the couscous with the chopped apricots as the package directs. Season with salt and pepper.",
+    "Transfer the chicken to plates. Toss the mushrooms with the lemon juice, cilantro or dill, and salt and pepper to taste. Serve the chicken with the mushrooms, couscous and yogurt."
+  ]
+}
