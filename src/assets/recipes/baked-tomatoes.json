@@ -1,0 +1,45 @@
+{
+  "recipeName": "Baked Tomatoes",
+  "recipeImage": "images/baked-tomatoes.jpg",
+  "infoTime": "0.35",
+  "infoDifficulty": "easy",
+  "infoServings": "4",
+  "ingredientsList": [{
+      "amount": "4",
+      "ingredient": "ripe vine-ripened tomatoes"
+    },
+    {
+      "amount": "2",
+      "ingredient": "tablespoons olive oil"
+    },
+    {
+      "amount": "¾",
+      "ingredient": "cup panko breadcrumbs"
+    },
+    {
+      "amount": "¼",
+      "ingredient": "cup grated Parmesan"
+    },
+    {
+      "amount": "1",
+      "ingredient": "tablespoon finely chopped fresh parsley"
+    },
+    {
+      "amount": "1",
+      "ingredient": "clove garlic, finely chopped"
+    },
+    {
+      "amount": "1",
+      "ingredient": "pinch red pepper flakes"
+    }
+  ],
+  "directionsList": [
+    "Preheat the oven to 450 degrees F.",
+    "Slice the tomatoes from core to core. Remove and discard the seeds and juice, and add the tomatoes to a casserole dish.",
+    "Drizzle with olive oil and sprinkle with salt and pepper.",
+    "Combine the 2 tablespoons olive oil, panko, Parmesan, parsley, garlic, shallots, red pepper flakes and some salt and pepper together in a small bowl.",
+    "Fill the tomatoes with the panko mixture.",
+    "Bake 20 minutes.",
+    "Drizzle with a splash of olive oil before serving."
+  ]
+}

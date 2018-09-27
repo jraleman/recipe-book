@@ -12,6 +12,7 @@
 -  [arroz-con-guandu](https://c1.staticflickr.com/7/6058/6348039773_39ed02b654_b.jpg)
 -  [avocado-lime-salmon](https://diyprojects.com/wp-content/uploads/2016/05/Avocado-Lime-Salmon.jpg)
 - [baba-ghanoush](http://toriavey.com/images/2011/06/Baba-Ghanoush-9-640x408.jpg)
+- [baked-tomatoes](https://paleoleap.com/pictures/j-paleo/roasted-tomatoes/roasted-tomatoes-main.jpg)
 
 ## Fair Use Policy and Legal Disclaimer
 
