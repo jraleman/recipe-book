@@ -1,0 +1,53 @@
+{
+  "recipeName": "Baba Ghanoush",
+  "recipeImage": "images/baba-ghanoush.jpg",
+  "infoTime": "1.05",
+  "infoDifficulty": "medium",
+  "infoServings": "4",
+  "ingredientsList": [{
+      "amount": "3",
+      "ingredient": "medium eggplants"
+    },
+    {
+      "amount": "¼",
+      "ingredient": "cup lemon juice"
+    },
+    {
+      "amount": "¼",
+      "ingredient": "cup tahini"
+    },
+    {
+      "amount": "3",
+      "ingredient": "tablespoons extra virgin olive oil"
+    },
+    {
+      "amount": "4",
+      "ingredient": "cloves garlic, finely minced"
+    },
+    {
+      "amount": "1",
+      "ingredient": "teaspoon salt"
+    },
+    {
+      "amount": "½",
+      "ingredient": "teaspoon cumin"
+    },
+    {
+      "amount": "⅓",
+      "ingredient": "cup parsley, minced"
+    },
+    {
+      "amount": "1",
+      "ingredient": "package of chips or bread, to serve"
+    }
+  ],
+  "directionsList": [
+    "Prick each eggplant with a fork until the surface is covered with holes.",
+    "Place the eggplants under a broiler (or on a grill) and cook for about 40 minutes, until blackened and slightly shrunken, turning occasionally.",
+    "When they’re very tender, let them cool.",
+    "When cool enough to handle, scoop the eggplant flesh into a bowl of a food processor with a spoon, discarding the skins.",
+    "Add the lemon juice, tahini, olive oil, minced garlic, salt, and cumin.",
+    "Process until desired texture, then add the parsley and pulse to combine.",
+    "Serve with chips, pita bread, a baguette, crackers, etc."
+  ]
+}
