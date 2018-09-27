@@ -1,0 +1,56 @@
+{
+  "recipeName": "Garlic Chicken Primavera Penne",
+  "recipeImage": "images/garlic-chicken-primavera-penne.jpg",
+  "infoTime": "0:25",
+  "infoDifficulty": "medium",
+  "infoServings": "4",
+  "ingredientsList": [
+    {
+      "amount": "2",
+      "ingredient": "tbsp. olive oil"
+    },
+    {
+      "amount": "3",
+      "ingredient": "cloves garlic, chopped"
+    },
+    {
+      "amount": "2",
+      "ingredient": "chicken breasts, thinly sliced"
+    },
+    {
+      "amount": "2",
+      "ingredient": "cups asparagus, chopped"
+    },
+    {
+      "amount": "1",
+      "ingredient": "cup cherry tomatoes, halved"
+    },
+    {
+      "amount": "1",
+      "ingredient": "cup carrots, sliced"
+    },
+    {
+      "amount": "1",
+      "ingredient": "tsp pepper"
+    },
+    {
+      "amount": "1",
+      "ingredient": "tsp salt"
+    },
+    {
+      "amount": "4",
+      "ingredient": "cups cooked penne"
+    },
+    {
+      "amount": "1",
+      "ingredient": "cup Parmesan"
+    }
+  ],
+  "directionsList": [
+    "Heat oil in a large pot over high heat.",
+    "Cook garlic and chicken until no pink is showing.",
+    "Add asparagus, tomatoes, carrots, salt, and pepper, cooking for about 2 minutes.",
+    "Add pasta and Parmesan, stirring until cheese is melted and evenly distributed.",
+    "Serve!"
+  ]
+}
