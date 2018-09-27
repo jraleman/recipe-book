@@ -1,0 +1,54 @@
+{
+  "recipeName": "Brown Sugar Mustard Glazed Ham",
+  "recipeImage": "images/brown-sugar-mustard-glazed-ham.jpg",
+  "infoTime": "3.45",
+  "infoDifficulty": "hard",
+  "infoServings": "16",
+  "ingredientsList": [{
+      "amount": "8",
+      "ingredient": "pound bone-in fully cooked ham"
+    },
+    {
+      "amount": "½",
+      "ingredient": "cup of water"
+    },
+    {
+      "amount": "½",
+      "ingredient": "cup unsalted butter"
+    },
+    {
+      "amount": "1",
+      "ingredient": "cup of brown sugar"
+    },
+    {
+      "amount": "½",
+      "ingredient": "cup of honey"
+    },
+    {
+      "amount": "2",
+      "ingredient": "tablespoons Dijon mustard"
+    },
+    {
+      "amount": "¼",
+      "ingredient": "teaspoon ground cinnamon"
+    },
+    {
+      "amount": "¼",
+      "ingredient": "teaspoon ground cloves"
+    },
+    {
+      "amount": "4",
+      "ingredient": "cloves garlic, smashed"
+    }
+  ],
+  "directionsList": [
+    "Preheat the oven to 300°F | 150°C and arrange a rack in the lower third. Remove any plastic packaging or netting from the ham. Trim away the rind and discard. Set the ham aside to rest at room temperature for 1-2 hours.",
+    "Line a baking tray or dish with several sheets of aluminum foil or parchment paper if you prefer (it will make cleanup a lot easier).",
+    "Remove the rind or skin of the ham (refer to steps in post), ensuring you leave the fat on. Using a sharp knife score a 1-inch-wide diamond pattern (don’t cut more than ¼-inch-deep) over the entire ham. Place the ham in the baking tray; pour ⅓ cup of water into the base of the pan and cover the ham with two pieces of foil or parchment paper and bake for 30 minutes.",
+    "Meanwhile, heat the butter in a small pot or saucepan over medium heat until golden browned. Add in the brown sugar, honey, mustard, cinnamon and cloves, stirring to mix together well until the brown sugar has completely dissolved, (about 2 minutes).",
+    "Reduce heat to low and add in the garlic. Allow it to become fragrant, cooking for a further minute or two until the glaze just begins to simmer, then set it aside and let cool to lukewarm (the glaze should be the consistency of room-temperature honey).",
+    "After 30 minutes baking time, carefully remove the ham from the oven and increase the oven temperature to 425°F | 220°C. Discard the foil or parchment paper and pour ⅓ of the glaze all over the ham, brushing in between the cuts to evenly cover. Return to the oven and bake uncovered for 15 minutes.",
+    "Remove from the oven, brush with another third of the glaze and some of the pan juices, and repeat again after 15 minutes more minutes of baking until a dark golden-brown crust has formed, (about 30 minutes total). For added depth of flavor, mix some of the ham pan juices together with the glaze in the pot which will help keep it runny enough for brushing. If your crust is still pink after their suggested baking time, turn on your broiler (or oven grill), and allow it to broil for 2-5 minutes, while keeping an eye on it so it doesn't burn from the sugar.",
+    "Let the ham rest 10-20 minutes before slicing."
+  ]
+}
