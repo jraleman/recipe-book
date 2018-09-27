@@ -1,0 +1,69 @@
+{
+  "recipeName": "Chicken and Mushrooms with Rigatoni",
+  "recipeImage": "images/chicken-mushrooms-rigatoni.jpg",
+  "infoTime": "0.35",
+  "infoDifficulty": "medium",
+  "infoServings": "4",
+  "ingredientsList": [
+    {
+      "amount": "2",
+      "ingredient": "tablespoons extra-virgin olive oil"
+    },
+    {
+      "amount": "2",
+      "ingredient": "tablespoons butter"
+    },
+    {
+      "amount": "1",
+      "ingredient": "pound crimini or button mushrooms, sliced"
+    },
+    {
+      "amount": "3-4",
+      "ingredient": "cloves garlic, finely chopped"
+    },
+    {
+      "amount": "2",
+      "ingredient": "shallots, finely chopped"
+    },
+    {
+      "amount": "2",
+      "ingredient": "tablespoons tomato paste"
+    },
+    {
+      "amount": "⅓",
+      "ingredient": "cup marsala or dry sherry"
+    },
+    {
+      "amount": "2",
+      "ingredient": "cups tomato passata or puree"
+    },
+    {
+      "amount": "1",
+      "ingredient": "cup chicken stock"
+    },
+    {
+      "amount": "½",
+      "ingredient": "cup heavy cream"
+    },
+    {
+      "amount": "2",
+      "ingredient": "cups poached chicken, in bite-size pieces"
+    },
+    {
+      "amount": "1",
+      "ingredient": "pound rigatoni"
+    },
+    {
+      "amount": "1",
+      "ingredient": "reshly grated Parmigiano-Reggiano"
+    }
+  ],
+  "directionsList": [
+    "Heat the Extra Virgin Olive Oil in a deep skillet over medium-high heat, add the butter and melt into the oil.",
+    "Add the mushrooms and brown well. Add the garlic, shallots, herbs and some salt and pepper, and cook for 2 to 3 minutes more. Then add the tomato paste, stir 1 minute more. Add the Marsala, stir. Add the passata, stock and cream, and combine. Add the chicken and simmer over low heat to thicken. Adjust seasoning. Cool and store for a make-ahead meal.",
+    "Bring a pot of water to boil for the pasta, salt the water and cook the rigatoni to al dente.",
+    "Reserve a cup starchy water, then drain.",
+    "Toss the pasta with the sauce and add the starchy water as needed if the mixture seems dry or tight.",
+    "Serve topped with Parmigiano-Reggiano."
+  ]
+}
