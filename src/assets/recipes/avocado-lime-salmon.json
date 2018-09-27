@@ -1,0 +1,43 @@
+{
+  "recipeName": "Avocado Lime Salmon",
+  "recipeImage": "images/avocado-lime-salmon.jpg",
+  "infoTime": "0.25",
+  "infoDifficulty": "easy",
+  "infoServings": "4",
+  "ingredientsList": [{
+      "amount": "6",
+      "ingredient": "ounces skinless salmon"
+    },
+    {
+      "amount": "1",
+      "ingredient": "garlic clove, minced"
+    },
+    {
+      "amount": "1",
+      "ingredient": "tablespoon olive oil"
+    },
+    {
+      "amount": "½",
+      "ingredient": "teaspoon paprika"
+    },
+    {
+      "amount": "¼",
+      "ingredient": "red onion, chopped"
+    },
+    {
+      "amount": "1",
+      "ingredient": "tablespoon cilantro, chopped"
+    },
+    {
+      "amount": "1",
+      "ingredient": "tablespoon lime juice"
+    }
+  ],
+  "directionsList": [
+    "Preheat oven to 400˚F/200˚C.",
+    "On a baking sheet, season salmon with garlic, olive oil, salt, pepper, and paprika.",
+    "Bake for 10–12 minutes.",
+    "In a small bowl, mix avocado topping ingredients until fully incorporated. Do not overmix or you’ll break down your avocado.",
+    "Spoon avocado topping over the salmon."
+  ]
+}

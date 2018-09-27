@@ -21,6 +21,7 @@ const recipeList = [
   require('./assets/recipes/arugula-florida-berry-salad.json'),
   require('./assets/recipes/garlic-parmesan-scalloped-potatoes.json'),
   require('./assets/recipes/arroz-con-guandu.json'),
+  require('./assets/recipes/avocado-lime-salmon.json'),
 ];
 
 /*

@@ -10,6 +10,7 @@
 - [arugula-florida-berry-salad](https://i0.wp.com/d2w079qmvzh0vc.cloudfront.net/opportunities/790/blog_images/Florida_Arugula__Berry_and_Citrus_Salad_small.jpg?ssl=1)
 - [garlic-parmesan-scalloped-potatoes](https://www.chocolatemoosey.com/wp-content/uploads/2016/11/Garlic-Parmesan-Au-Gratin-Potatoes-photo-8542.jpg)
 - [arroz-con-guandu](https://c1.staticflickr.com/7/6058/6348039773_39ed02b654_b.jpg)
+- [avocado-lime-salmon](https://diyprojects.com/wp-content/uploads/2016/05/Avocado-Lime-Salmon.jpg)
 
 ## Fair Use Policy and Legal Disclaimer
 
