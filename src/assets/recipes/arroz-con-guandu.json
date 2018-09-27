@@ -1,0 +1,40 @@
+{
+  "recipeName": "Arroz con Guandù",
+  "recipeImage": "images/arroz-con-guandu.jpg",
+  "infoTime": "0.55",
+  "infoDifficulty": "medium",
+  "infoServings": "8",
+  "ingredientsList": [{
+      "amount": "1",
+      "ingredient": "lb de arroz"
+    },
+    {
+      "amount": "1",
+      "ingredient": "lb de guandú"
+    },
+    {
+      "amount": "1",
+      "ingredient": "pastilla caldo maggie"
+    },
+    {
+      "amount": "3-5",
+      "ingredient": "dientes de ajo"
+    },
+    {
+      "amount": "1",
+      "ingredient": "cebolla mediana"
+    },
+    {
+      "amount": "3-4",
+      "ingredient": "hojas de culantro"
+    }
+  ],
+  "directionsList": [
+    "Freír el ajo y cebolla picadito.",
+    "Cuando este blando colocar los Guandú lavados y colados, sofreír y colocar una pastilla de caldo Maggie",
+    "Sofreír hasta que el guandú estés abiertos, y poner dos cucharadas de arroz previamente lavados",
+    "Seguir sofriéndolos juntos, cuando el arroz este suelto, tirar el resto del arroz y agua.",
+    "Probar de sal y a continuación colocar mas sal, y las hojas del cilantro.",
+    "Tapar a fuego bajo y dejar pasar 35 min y cerciorarse de que este completamente seco y así poder revolver."
+  ]
+}

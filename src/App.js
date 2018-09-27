@@ -20,6 +20,7 @@ const recipeList = [
   require('./assets/recipes/sopa-puerros-papas.json'),
   require('./assets/recipes/arugula-florida-berry-salad.json'),
   require('./assets/recipes/garlic-parmesan-scalloped-potatoes.json'),
+  require('./assets/recipes/arroz-con-guandu.json'),
 ];
 
 /*
