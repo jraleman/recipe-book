@@ -1,0 +1,44 @@
+{
+  "recipeName": "Caprese Chicken",
+  "recipeImage": "images/caprese-chicken.jpg",
+  "infoTime": "0.25",
+  "infoDifficulty": "medium",
+  "infoServings": "4",
+  "ingredientsList": [{
+      "amount": "1",
+      "ingredient": "tbsp. extra-virgin olive oil"
+    },
+    {
+      "amount": "1",
+      "ingredient": "lb. boneless skinless chicken breasts"
+    },
+    {
+      "amount": "¼",
+      "ingredient": "cup of balsamic vinegar"
+    },
+    {
+      "amount": "2",
+      "ingredient": "cloves garlic, minced"
+    },
+    {
+      "amount": "1",
+      "ingredient": "pint grape tomatoes, halved"
+    },
+    {
+      "amount": "2",
+      "ingredient": "tbsp. shredded basil"
+    },
+    {
+      "amount": "4",
+      "ingredient": "slices mozzarella"
+    }
+  ],
+  "directionsList": [
+    "In a large skillet over medium-high heat, heat oil.",
+    "Season chicken with salt and pepper and cook until golden and cooked through, 6 minutes per side. Transfer to a plate.",
+    "Add balsamic vinegar to skillet to deglaze, then add garlic and stir until fragrant, 1 minute. Add tomatoes and season with salt. Let simmer until soft, 5 to 7 minutes.",
+    "Stir in basil.",
+    "Return chicken to skillet and nestle in tomatoes. Top with a slice of mozzarella and cover with lid to melt cheese.",
+    "Spoon tomatoes over chicken and serve."
+  ]
+}

@@ -15,6 +15,7 @@
 - [baked-tomatoes](https://paleoleap.com/pictures/j-paleo/roasted-tomatoes/roasted-tomatoes-main.jpg)
 - [bbq-chicken-bake](http://3.bp.blogspot.com/-_RYm1UddUbo/T7MT3SnGtfI/AAAAAAAADHI/a0eQODL2DFQ/s1600/DSC01402.JPG)
 - [brown-sugar-glazed-ham](http://www.thecookingmom.com/wp-content/uploads/2013/03/Brown-Sugar-and-Mustard-Glazed-Ham-700x468.jpg)
+- [caprese-chicken](https://www.the-girl-who-ate-everything.com/wp-content/uploads/blogger/-132OEZ2SkWo/UBS9tzkPI6I/AAAAAAAAJIs/y-at_c7bmeA/s1600/IMG_7782.JPG)
 
 ## Fair Use Policy and Legal Disclaimer
 

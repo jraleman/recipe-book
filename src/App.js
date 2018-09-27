@@ -26,6 +26,7 @@ const recipeList = [
   require('./assets/recipes/baked-tomatoes.json'),
   require('./assets/recipes/bbq-chicken-bake.json'),
   require('./assets/recipes/brown-sugar-mustard-glazed-ham.json'),
+  require('./assets/recipes/caprese-chicken.json'),
 ];
 
 /*
