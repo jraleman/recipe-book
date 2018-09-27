@@ -18,6 +18,7 @@
 - [caprese-chicken](https://www.the-girl-who-ate-everything.com/wp-content/uploads/blogger/-132OEZ2SkWo/UBS9tzkPI6I/AAAAAAAAJIs/y-at_c7bmeA/s1600/IMG_7782.JPG)
 - [chicken-mushrooms-couscous](https://realfood.tesco.com/media/images/wild-mushroom-israeli-couscous-l-c9b26d25-62b0-41df-9eba-aae41a0f1163-0-1400x919.jpg)
 - [chicken-mushrooms-rigatoni](https://search.chow.com/thumbnail/1280/800/www.chowstatic.com/assets/recipe_photos/30671_creamy_rigatoni_chicken_mushrooms.jpg)
+- [curried-chicken-dried-cranberries](http://heatherchristo.com/wp-content/uploads/2015/10/Pumpkin-chicken-Curry-with-Cranberry-Coconut-Almond-Rice.jpg)
 
 ## Fair Use Policy and Legal Disclaimer
 

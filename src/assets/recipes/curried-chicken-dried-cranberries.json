@@ -1,0 +1,73 @@
+{
+  "recipeName": "Curried Chicken with Fresh & Dried Cranberries",
+  "recipeImage": "images/curried-chicken-dried-cranberries.jpg",
+  "infoTime": "1.05",
+  "infoDifficulty": "medium",
+  "infoServings": "8",
+  "ingredientsList": [{
+      "amount": "3",
+      "ingredient": "teaspoons canola oil, divided"
+    },
+    {
+      "amount": "2",
+      "ingredient": "pounds boneless, skinless chicken breasts, trimmed and cut crosswise into ½-inch-thick slices"
+    },
+    {
+      "amount": "3",
+      "ingredient": "tablespoons mild or medium-hot curry powder, divided"
+    },
+    {
+      "amount": "2",
+      "ingredient": "teaspoons butter"
+    },
+    {
+      "amount": "1",
+      "ingredient": "small onion, chopped"
+    },
+    {
+      "amount": "1",
+      "ingredient": "tablespoon yellow mustard seeds"
+    },
+    {
+      "amount": "¼",
+      "ingredient": "teaspoon ground cardamom, or cloves"
+    },
+    {
+      "amount": "16",
+      "ingredient": "ounce can diced tomatoes with green chilies"
+    },
+    {
+      "amount": "1½",
+      "ingredient": "cups reduced-sodium chicken broth"
+    },
+    {
+      "amount": "1⅓",
+      "ingredient": "cups sweetened dried cranberries"
+    },
+    {
+      "amount": "1",
+      "ingredient": "cup cranberries, fresh or frozen, thawed, coarsely chopped"
+    },
+    {
+      "amount": "1",
+      "ingredient": "tablespoon minced fresh ginger"
+    },
+    {
+      "amount": "¼",
+      "ingredient": "teaspoon salt"
+    },
+    {
+      "amount": "1",
+      "ingredient": "chopped fresh cilantro, for garnish"
+    }
+  ],
+  "directionsList": [
+    "Heat 1 ½ teaspoons oil in a nonreactive pan (stainless steel, enamel-coated or glass) over medium-high heat. Add half the chicken pieces and sprinkle with a generous ½ teaspoon curry powder.",
+    "Cook, stirring occasionally, until the chicken is beginning to brown, about 5 minutes. Transfer to a large plate. Heat the remaining 1 ½ teaspoons oil in the pot. Add the remaining chicken; sprinkle with another generous ½ teaspoon curry powder and cook, stirring occasionally, until beginning to brown, about 5 minutes. Transfer to the plate.",
+    "Add butter, onion and mustard seeds to the pot; cook, stirring, until the seeds pop and the onion begins to brown, 2 to 4 minutes.",
+    "Return the chicken and any accumulated juices to the pot, sprinkle with the remaining curry powder and cardamom (or cloves); stir to coat the chicken with the spices.",
+    "Cook, stirring, for 1 minute. Stir in tomatoes, broth, dried and fresh cranberries, ginger and salt. Bring to a boil, reduce heat to a simmer and cook, uncovered and stirring occasionally, until the mixture reduces slightly and the chicken is cooked through, 10 to 12 minutes more.",
+    "Serve garnished with cilantro.",
+    "Serve with brown basmati rice."
+  ]
+}
